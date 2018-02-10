@@ -11,7 +11,7 @@ public class MathTest {
         Math math = new Math(3,2 );
         int res = math.getSum();
 
-        assertEquals(6, res);
+        assertEquals(5, res);
 
     }
 
